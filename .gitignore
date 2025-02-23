@@ -1,0 +1,9 @@
+#ignorar archivos del sistema
+    .DS_Store
+
+    #ignorar archivos del entorno
+    .env
+    
+    #ignorar carpetas de dependencias(si las uso)
+    node_modules/
+    
