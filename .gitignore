@@ -3,6 +3,10 @@
 
     #ignorar archivos del entorno
     .env
+
+    #ignora pmpm-lock.yaml
+    pnpm-lock.yaml
+
     
     #ignorar carpetas de dependencias(si las uso)
     node_modules/
